@@ -37,6 +37,7 @@ Repository contain start - template and you could investigate how it works. All 
 - ```Componets```
 - ```Grid```
 - ```Util```
+
 **For all changes  which you want improve use** ```styles.scss``` and ```settings.scss```
 
 **Tip:** after changes  in ```settings.scss```  you should restart gulp for changes will applied
