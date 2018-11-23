@@ -27,7 +27,7 @@ $ gulp
 **More about syntax read there** - https://foundation.zurb.com/emails/docs/inky.html
 
 ### Start Template
-Repository exist start - template and could evestigate how it workds. All compilied template placed in dist folder.
+Repository contain start - template and you could investigate how it works. All compiled templates placed in dist folder.
 
 ### Styles / Grid System / Variables
  You can use  use **inky** syntax with class but dint use ID, it won't work
