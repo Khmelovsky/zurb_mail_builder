@@ -16,7 +16,7 @@ $ gulp
 ```
 
  ### Syntax 
- The main thing  in this tool - special syntax called **Inky**. It's has several tags and grid system clasess like in a Bootstrap. This  list of them:
+ The main thing  in this tool - special syntax called **Inky**. It's has several tags and grid system clasess like in a Bootstrap. This is list of them:
   - `'<container> </container>'` 
   - `'<row> </row>'`
   - `'<columns> </columns>'`
